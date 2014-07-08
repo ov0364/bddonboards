@@ -1,4 +1,2 @@
-bddonboards
-===========
-
 BDD on Boards
+===========
