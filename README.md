@@ -1,6 +1,6 @@
 BDD on Boards
 ===========
-Combine BDD and storyboards for getting software that matters.
+Combine BDD and storyboards for creating software.
 
 1. : Describe behaviour in plain text
 2. : Write storyboards
